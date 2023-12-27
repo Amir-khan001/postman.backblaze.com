@@ -1,2 +1,2 @@
-# postman.backblaze.com
+# postman
 my personal work
